@@ -26,3 +26,6 @@ In accordance with these principles the computer must include:
     предназначенное для организации выполнения программ ; 
     запоминающие устройства ( ЗУ ); 
     внешние устройства для ввода-вывода данных.
+    
+    ![Screenshot_1](https://user-images.githubusercontent.com/55922843/137593921-cba4c91c-8035-49dd-bfc5-fa390a878bf8.jpg)
+
