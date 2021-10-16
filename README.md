@@ -27,5 +27,4 @@ In accordance with these principles the computer must include:
     запоминающие устройства ( ЗУ ); 
     внешние устройства для ввода-вывода данных.
     
-    ![Screenshot_1](https://user-images.githubusercontent.com/55922843/137593921-cba4c91c-8035-49dd-bfc5-fa390a878bf8.jpg)
-
+   ![Screenshot_1](https://user-images.githubusercontent.com/55922843/137593935-d45dbddc-8628-4b45-992d-2b95e1309bbd.jpg)
